@@ -28,7 +28,7 @@
     "@types/ramda": "^0.26.21",
     "chalk": "^2.4.2",
     "dotenv": "^8.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "node-uuid": "^1.4.8",
     "puppeteer": "^1.19.0",
